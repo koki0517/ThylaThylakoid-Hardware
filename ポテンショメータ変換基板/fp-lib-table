@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Potentiometer_LED")(type "KiCad")(uri "C:/Users/koki0/Desktop/S-OP/Boards/UI基板/Potentiometer_LED.pretty")(options "")(descr ""))
+)
