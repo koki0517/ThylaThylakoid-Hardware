@@ -1,9 +1,10 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-C1,22u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,54.963,-123.704,-90.0,top
+C1,22u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,55.6768,-123.698,-90.0,top
 C2,10u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,76.807,-126.371,-90.0,top
-C3,1000u,CP_Radial_D8.0mm_P3.50mm,41.979349,-103.378,180.0,top
+C3,1000u,CP_Radial_D8.0mm_P3.50mm,46.525949,-100.33,180.0,top
+D1,D_Shockley,D_DO-201AD_P12.70mm_Horizontal,46.482,-122.4788,180.0,top
 F1,3557-15,3557-15_KEY,41.91,-129.54,0.0,top
-J1,XT30,AMASS_XT30U-M_1x02_P5.0mm_Vertical,38.1,-112.776,180.0,top
+J1,XT30,AMASS_XT30U-M_1x02_P5.0mm_Vertical,38.1,-92.71,180.0,top
 J2,PWR out,AMASS_XT30U-F_1x02_P5.0mm_Vertical,51.475,-92.71,180.0,top
 J3,Power Switch,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,70.375,-92.73,90.0,top
 J4,5V out,JST_VH_B3P-VH_1x03_P3.96mm_Vertical,81.5025,-92.287,180.0,top
