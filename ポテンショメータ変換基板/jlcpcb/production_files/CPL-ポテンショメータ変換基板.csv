@@ -1,4 +1,4 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 ENC1,~,EC12PLRGBSDVBF,77.215,-69.48,0.0,top
-J1,Conn_01x05_Pin,PinHeader_1x05_P2.54mm_Vertical,77.211,-58.42,90.0,top
-J2,Conn_01x03_Pin,PinHeader_1x03_P2.54mm_Vertical,77.201,-81.28,90.0,top
+J1,Conn_01x05_Pin,PinHeader_1x05_P2.54mm_Vertical,77.216,-58.42,90.0,top
+J2,Conn_01x03_Pin,PinHeader_1x03_P2.54mm_Vertical,77.216,-81.28,90.0,top

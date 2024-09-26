@@ -1,0 +1,23 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,0.33uF,C_Disc_D3.0mm_W1.6mm_P2.50mm,63.4746,-65.2526,90.0,top
+C10,0.1u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,101.092,-93.98,90.0,top
+C2,33uF,CP_Radial_D5.0mm_P2.00mm,63.5,-70.6214,90.0,top
+C3,0.1u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,101.092,-78.232,-90.0,top
+C4,100u,CP_Radial_D6.3mm_P2.50mm,94.508,-86.36,0.0,top
+C5,100u,CP_Radial_D6.3mm_P2.50mm,94.508,-93.98,0.0,top
+C6,0.1u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,101.092,-82.296,90.0,top
+C8,0.1u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,101.092,-89.916,-90.0,top
+D1,RED LED,LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm,53.878,-66.035,-90.0,top
+J1,Conn_01x02,AMASS_XT30PW-M_1x02_P2.50mm_Horizontal,107.1,-108.775,180.0,top
+J2,Conn_01x03,JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,107.95,-77.4,0.0,top
+J3,Conn_01x03,JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,107.95,-83.25,0.0,top
+J4,Conn_01x03,JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,107.95,-89.1,0.0,top
+J5,Conn_01x03,JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,107.95,-94.95,0.0,top
+J6,DATA_IN,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,94.254,-78.469,0.0,top
+LDO1,~,TO-220-3_Horizontal_TabDown,76.7516,-69.0626,-90.0,top
+LT1,~,LT8640,78.74,-85.852,180.0,top
+LT2,~,LT8640,57.15,-85.725,180.0,top
+R1,470,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,58.928,-67.564,-90.0,top
+R2,220,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,57.023,-67.5894,90.0,top
+R3,220,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,50.8,-70.485,180.0,top
+U1,SeeeduinoXIAO RP2040,XIAO RP2040,51.308,-66.548,90.0,top
