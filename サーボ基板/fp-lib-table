@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "LT8640")(type "KiCad")(uri "C:/Users/koki0/Documents/基盤/電源基板/LT8640.pretty")(options "")(descr ""))
   (lib (name "Raspberry-Pi-3-library-for-kicad-master")(type "KiCad")(uri "C:/Users/koki0/Downloads/Raspberry-Pi-3-library-for-kicad-master/Raspberry-Pi-3-library-for-kicad-master")(options "")(descr ""))
+  (lib (name "Potentiometer_LED")(type "KiCad")(uri "C:/Users/koki0/Desktop/S-OP/Boards/UI基板/Potentiometer_LED.pretty")(options "")(descr ""))
 )
