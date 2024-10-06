@@ -1,0 +1,17 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,C_Polarized_Small,CP_Radial_D5.0mm_P2.50mm,233.045,-74.95,270.0,bottom
+C3,1000p,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,254.0,-95.0,0.0,top
+C4,1000p,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,250.5,-95.0,180.0,top
+ENC1,~,EC12PLRGBSDVBF_DIP,252.04,-109.07,180.0,top
+J1,Conn_01x04,JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal,227.33,-85.404,270.0,bottom
+J2,Conn_01x03,JST_XH_S3B-XH-A_1x03_P2.50mm_Horizontal,248.92,-64.5268,90.0,top
+J4,Conn_01x03,JST_XH_S3B-XH-A_1x03_P2.50mm_Horizontal,181.22052,-82.5,180.0,bottom
+R1,R_Small,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,257.0,-117.0,270.0,bottom
+R2,R_Small,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,254.5,-116.9125,270.0,bottom
+R3,R_Small,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,249.5,-117.0875,270.0,bottom
+R4,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,254.0,-92.0,180.0,top
+R5,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,250.5,-92.0,0.0,top
+SW1,SW_Push,SW_PUSH_6mm_H4.3mm,186.615,-116.84,0.0,bottom
+SW2,~,TTP223,220.98,-64.8462,180.0,top
+U1,TFT_320x240,TFT-320x240,202.299,-96.52,90.0,top
+U3,Pico,RPi_Pico_SMD_TH,211.89,-97.935,0.0,bottom

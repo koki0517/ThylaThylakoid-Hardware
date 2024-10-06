@@ -12,9 +12,12 @@ A8,RPR-220,PHODET_RPR-220,68.630886,-88.77,90.0,bottom
 A9,RPR-220,PHODET_RPR-220,58.470886,-88.77,90.0,bottom
 C1,47u,CP_Radial_D5.0mm_P2.00mm,85.180886,-98.057,-90.0,top
 C2,0.33u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,69.940886,-98.93,90.0,top
+ENC1,~,EC12PLRGBSDVBF,105.638886,-42.3906,90.0,top
 FB1,100R,L_Walsin_WLFM201209x,69.940886,-107.82,90.0,top
-J1,Conn_02x10,PinHeader_2x10_P2.54mm_Vertical,88.990886,-107.82,90.0,top
-J2,Conn_01x06,PinSocket_2x03_P2.54mm_Vertical,62.320886,-76.705,0.0,top
+J1,Conn_01x05_Pin,PinHeader_1x05_P2.54mm_Vertical,88.990886,-107.82,90.0,top
+J1,Conn_01x05_Pin,PinHeader_1x05_P2.54mm_Vertical,94.578886,-42.3896,180.0,top
+J2,Conn_01x03_Pin,PinHeader_1x03_P2.54mm_Vertical,62.320886,-76.705,0.0,top
+J2,Conn_01x03_Pin,PinHeader_1x03_P2.54mm_Vertical,117.438886,-42.3896,180.0,top
 J3,ColorSensor,PinSocket_2x04_P2.54mm_Vertical,115.660886,-76.07,0.0,top
 J4,ColorSensor,PinHeader_2x04_P2.54mm_Vertical,115.279886,-63.37,0.0,top
 J5,Conn_01x06,PinHeader_2x03_P2.54mm_Vertical,61.939886,-64.005,0.0,top
