@@ -8,4 +8,5 @@
   (lib (name "footprints")(type "KiCad")(uri "C:/Users/koki0/Downloads/OKL_T_6_W12N_C/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "OKL-T_6-W12N-C")(type "KiCad")(uri "C:/Users/koki0/Downloads/Hercules_2022-main/Hercules_2022-main/KiCad_Project/2022/Library/OKL-T_6-W12N-C")(options "")(descr ""))
   (lib (name "3357_15")(type "KiCad")(uri "C:/Users/koki0/Downloads/3557_15/KiCADv6/3357_15")(options "")(descr ""))
+  (lib (name "MyLibrary")(type "KiCad")(uri "C:/Users/koki0/Desktop/S-OP/Boards/MyLibrary.pretty")(options "")(descr ""))
 )
