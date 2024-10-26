@@ -370,7 +370,7 @@
 		(descr "8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
 		(property "Reference" "U1"
-			(at 3.8 10.15 360)
+			(at 3.8 10.15 0)
 			(layer "F.SilkS")
 			(uuid "f5749814-ac68-4910-bcb2-9c65df15856d")
 			(effects
@@ -381,7 +381,7 @@
 			)
 		)
 		(property "Value" "ATtiny85-20P"
-			(at 3.81 9.95 360)
+			(at 3.81 9.95 0)
 			(layer "F.Fab")
 			(uuid "a6bf74e8-7764-4140-9408-f04f3e8e0d4c")
 			(effects
@@ -587,7 +587,7 @@
 			(uuid "43d26d6e-f321-4100-91b3-fe75e0c51fe0")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.81 3.81 360)
+			(at 3.81 3.81 0)
 			(layer "F.Fab")
 			(uuid "0ca9d6a7-72d3-4403-8c1b-8e5b55acc93a")
 			(effects
@@ -961,7 +961,7 @@
 		(descr "Diode, DO-201AD series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=9.5*5.2mm^2, , http://www.diodes.com/_files/packages/DO-201AD.pdf")
 		(tags "Diode DO-201AD series Axial Horizontal pin pitch 12.7mm  length 9.5mm diameter 5.2mm")
 		(property "Reference" "D1"
-			(at 6.223 3.429 360)
+			(at 6.223 3.429 0)
 			(layer "F.SilkS")
 			(uuid "87efba8b-ef32-4a35-ae52-5ca665b26bf7")
 			(effects
@@ -972,7 +972,7 @@
 			)
 		)
 		(property "Value" "D_Shockley"
-			(at 6.35 3.72 360)
+			(at 6.35 3.72 0)
 			(layer "F.Fab")
 			(uuid "07a02933-47eb-4104-b42e-11af2560a27d")
 			(effects
@@ -1247,7 +1247,7 @@
 			(uuid "532fadd4-d7cc-4c82-86a3-779d536c2547")
 		)
 		(fp_text user "K"
-			(at 0 -2.6 360)
+			(at 0 -2.6 0)
 			(layer "F.SilkS")
 			(uuid "32a39dc9-e5d2-436a-86e6-c521244b3510")
 			(effects
@@ -1258,7 +1258,7 @@
 			)
 		)
 		(fp_text user "K"
-			(at 0 -2.6 360)
+			(at 0 -2.6 0)
 			(layer "F.Fab")
 			(uuid "2b45be1f-a22a-4256-ae26-a2f102d9ebf3")
 			(effects
@@ -1269,7 +1269,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 7.0625 0 360)
+			(at 7.0625 0 0)
 			(layer "F.Fab")
 			(uuid "b26ce3fb-7938-4920-8ad4-143ab3329a94")
 			(effects
@@ -2747,7 +2747,7 @@
 			)
 		)
 		(property "Value" "Power Switch"
-			(at 1.25 4.6 360)
+			(at 1.25 4.6 0)
 			(layer "F.Fab")
 			(uuid "7f179747-6eab-4566-9373-2dcee17d927a")
 			(effects
@@ -3142,7 +3142,7 @@
 			(uuid "f8f432eb-b2ff-4a59-ac75-db5ce1eb4962")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.25 2.7 360)
+			(at 1.25 2.7 0)
 			(layer "F.Fab")
 			(uuid "8cfd82b6-d33d-48bd-81e5-d4e40a71c711")
 			(effects
@@ -3474,7 +3474,7 @@
 			)
 		)
 		(property "Value" "Voltmeter_DC_XH"
-			(at 1.25 4.6 360)
+			(at 1.25 4.6 0)
 			(layer "F.Fab")
 			(uuid "2e6d1465-102c-451d-8e57-f0d5e8b915f1")
 			(effects
@@ -3868,7 +3868,7 @@
 			(uuid "5215df65-9673-47dc-bfb8-3f3d7012e711")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.25 2.7 360)
+			(at 1.25 2.7 0)
 			(layer "F.Fab")
 			(uuid "004b1607-d452-472e-b576-9a0a59dfd14e")
 			(effects
@@ -4133,7 +4133,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R1"
-			(at 0 -1.43 360)
+			(at 0 -1.43 0)
 			(layer "F.SilkS")
 			(uuid "c72261d6-e4f0-425a-8cf1-3439ce5d2e82")
 			(effects
@@ -4144,7 +4144,7 @@
 			)
 		)
 		(property "Value" "220"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "59f35c3c-ac9c-4b10-8d8c-54e32fe893ae")
 			(effects
@@ -4299,7 +4299,7 @@
 			(uuid "78e87dd6-6af3-4dfb-a95f-00c5f1997fc7")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "9bacee59-6526-4d9e-94a8-404650e06c88")
 			(effects
@@ -4357,7 +4357,7 @@
 			)
 		)
 		(property "Value" "1000u"
-			(at 1.75 5.25 360)
+			(at 1.75 5.25 0)
 			(layer "F.Fab")
 			(uuid "b6b47d3e-cb2a-4166-abac-390e18025e09")
 			(effects
@@ -6035,7 +6035,7 @@
 			(uuid "cd995215-5842-4d35-9e3e-85c31e3f928a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.75 0 360)
+			(at 1.75 0 0)
 			(layer "F.Fab")
 			(uuid "395bba3c-603d-4625-b04d-296abe452ad0")
 			(effects
@@ -6300,7 +6300,7 @@
 			(at 0 -2.9 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "f25eea29-525d-4d4c-bba3-e9c80cb29601")
+			(uuid "477fec9f-bc3b-4d28-9977-04309f272c6d")
 			(effects
 				(font
 					(size 1 1)
@@ -6312,7 +6312,7 @@
 			(at 0 2.9 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b17dbe5a-5fc2-41c7-9c45-0c245e31c07b")
+			(uuid "eb4b5836-743e-4d9a-9a9a-801c29a6ef14")
 			(effects
 				(font
 					(size 1 1)
@@ -6369,7 +6369,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "b29605be-59d8-4780-bc32-d0fe34e4ae99")
+			(uuid "8a0cc51a-76da-4253-bce9-f4691cf2687a")
 		)
 		(fp_circle
 			(center 0 0)
@@ -6380,12 +6380,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "c2994be2-314c-40c9-ac0d-4fa42a2d54b7")
+			(uuid "9241e9fd-27ad-4d39-8518-79b9381364da")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "f568d9f7-1ea7-44ab-a798-e5f69d4d6e78")
+			(uuid "7423de50-7cf3-40c0-b677-bac966107adc")
 			(effects
 				(font
 					(size 1 1)
@@ -6399,7 +6399,7 @@
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(uuid "aaa9e319-31fb-487d-8f8c-272525809ea2")
+			(uuid "55d255bd-5d81-4351-8b59-84da0df0ef50")
 		)
 	)
 	(footprint "Connector_JST:JST_VH_B5P-VH_1x05_P3.96mm_Vertical"
@@ -6409,7 +6409,7 @@
 		(descr "JST VH series connector, B5P-VH (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST VH vertical")
 		(property "Reference" "J4"
-			(at 7.92 -4.9 360)
+			(at 7.92 -4.9 0)
 			(layer "F.SilkS")
 			(uuid "d73f63e4-e648-4c68-9b11-4bb6a1215ec6")
 			(effects
@@ -6420,7 +6420,7 @@
 			)
 		)
 		(property "Value" "PWR OUT"
-			(at 7.92 6 360)
+			(at 7.92 6 0)
 			(layer "F.Fab")
 			(uuid "8ca4cada-8ee0-4170-9c48-a6445173e78e")
 			(effects
@@ -6715,7 +6715,7 @@
 			(uuid "a0d37f36-1e00-4718-af96-2cda22f0778c")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 7.92 4.1 360)
+			(at 7.92 4.1 0)
 			(layer "F.Fab")
 			(uuid "f9a82725-da81-4df2-ab07-cd3bda1ed5b3")
 			(effects
@@ -6803,7 +6803,7 @@
 			(at 0 -2.9 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "f25eea29-525d-4d4c-bba3-e9c80cb29601")
+			(uuid "d7f09ea0-8a4c-41f0-a2f1-9013859292b1")
 			(effects
 				(font
 					(size 1 1)
@@ -6815,7 +6815,7 @@
 			(at 0 2.9 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b17dbe5a-5fc2-41c7-9c45-0c245e31c07b")
+			(uuid "b7d93141-0241-481e-8092-1c7077eeda5d")
 			(effects
 				(font
 					(size 1 1)
@@ -6872,7 +6872,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "b29605be-59d8-4780-bc32-d0fe34e4ae99")
+			(uuid "fd7f7dd2-10a3-4ee9-9f4a-cbf62e5ebcff")
 		)
 		(fp_circle
 			(center 0 0)
@@ -6883,12 +6883,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "c2994be2-314c-40c9-ac0d-4fa42a2d54b7")
+			(uuid "52638ce6-a721-42a7-8db0-715cc43ee862")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "f568d9f7-1ea7-44ab-a798-e5f69d4d6e78")
+			(uuid "a90ee787-bde2-4ed5-982c-152189100bcb")
 			(effects
 				(font
 					(size 1 1)
@@ -6902,7 +6902,7 @@
 			(drill 2.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(uuid "aaa9e319-31fb-487d-8f8c-272525809ea2")
+			(uuid "c5c690ff-32f2-43e9-ba52-cc4397230b7c")
 		)
 	)
 	(footprint "LT8640:LT8640"
@@ -6935,7 +6935,7 @@
 			)
 		)
 		(property "Footprint" "LT8640:LT8640"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "817c2d09-55b3-4b8d-b1df-9604ac780abc")
@@ -6947,7 +6947,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5a69c4c1-50c3-4b6c-b70d-369dddee9ed2")
@@ -6959,7 +6959,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8f94b39e-787c-4ec9-a92f-3a8852659620")
@@ -7652,7 +7652,7 @@
 			(uuid "7ccefbdd-7a3a-4504-bc7c-de8d8a70eafd")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 1.27 360)
+			(at 0 1.27 0)
 			(layer "F.Fab")
 			(uuid "a39ae165-b508-411a-ae5d-dee02ea664a1")
 			(effects
@@ -7701,8 +7701,9 @@
 		(uuid "e02c65a5-85b4-4274-903b-fc03559beee6")
 		(at 33.02 110.744 90)
 		(property "Reference" "G***"
-			(at 0 0 90)
+			(at 0.254 -6.858 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "e9dcd06d-0ec4-4fcd-801f-08b5dbbfec89")
 			(effects
 				(font
